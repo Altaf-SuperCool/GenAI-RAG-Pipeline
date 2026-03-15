@@ -1,0 +1,27 @@
+# Core dependencies
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+python-dotenv
+
+# Vector databases
+faiss-cpu              # Fast local similarity search (default)
+# pymilvus             # Enterprise distributed vector DB (optional - uncomment to use Milvus)
+
+# Additional vector stores (optional)
+chromadb
+typesense
+
+# LLM integrations
+langchain-groq
+langchain_openai
+langgraph
+
+# Notebook execution and automation
+papermill              # Execute notebooks programmatically
+jupyter                # Jupyter notebook support
+nbconvert              # Convert and execute notebooks
+nbformat               # Notebook format support
