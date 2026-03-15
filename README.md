@@ -1006,13 +1006,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
-
-This project is maintained under the United Airlines DevSecOps & Platform Engineering organization.
-For collaboration or access requests, please coordinate with the Director – Software Engineering.
-
----
-
 *Created with ❤️ for production RAG applications*  
 *Version: 1.0.0*  
 *Last Updated: March 2026*
