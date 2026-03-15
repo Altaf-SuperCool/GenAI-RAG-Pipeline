@@ -30,12 +30,12 @@ This is a **Production-Ready RAG (Retrieval-Augmented Generation) System** that 
 ### Key Features
 ✅ Multi-PDF ingestion with metadata preservation  
 ✅ Intelligent chunking with configurable overlap  
-✅ **Enterprise vector database** - Milvus (production) with FAISS (local) fallback  
+✅ Enterprise vector database - Milvus (production) with FAISS (local) fallback  
 ✅ Multiple retrieval strategies (semantic, hybrid)  
 ✅ Support for local & cloud LLMs  
 ✅ Advanced features: citations, history, summarization  
 ✅ Privacy-focused (local LLM option)  
-✅ **Zero-code switching** between vector databases via .env
+✅ Zero-code switching between vector databases via .env
 
 ---
 
