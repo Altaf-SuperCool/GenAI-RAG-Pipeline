@@ -1,8 +1,8 @@
 # 📚 Complete RAG Pipeline Documentation
 ## 👨‍💻 Author
 **Altaf Hussain Shaik**  
-*DevOps Architect*  
-📧 [altaf.shaik@united.com](mailto:altaf.shaik@united.com)
+*AI Generalist*  
+📧 [altaf.tajmahal@outlook.com](mailto:altaf.tajmahal@gmail.com)
 
 ---
 
