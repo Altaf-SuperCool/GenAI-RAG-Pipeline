@@ -2,7 +2,7 @@
 ## 👨‍💻 Author
 **Altaf Hussain Shaik**  
 *AI Generalist*  
-📧 [altaf.tajmahal@outlook.com](mailto:altaf.tajmahal@gmail.com)
+📧 [altaf.tajmahal@gmail.com](mailto:altaf.tajmahal@gmail.com)
 
 ---
 
